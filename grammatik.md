@@ -8,12 +8,8 @@ https://deutsch.lingolia.com/en/grammar/tenses/irregular-verbs
 
 
 
-Das habe ich auch schon gemacht 
-Das mochte ich gern mal machen
-Das finde ich nicht so wichtig
+Das habe ich auch schon gemacht - I've already done that
+Das mochte ich gern mal machen - I would like to do that
+Das finde ich nicht so wichtig - I don't think that's important
 
-
-
-
-I would like to do that
-I don't think that's important
+Du lernst schon lange Spanisch - You've been learning Spanish for a long time
