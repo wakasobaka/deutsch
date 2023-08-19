@@ -3,32 +3,32 @@ https://deutsch.lingolia.com/en/grammar/tenses/irregular-verbs
 **Strong verbs** *(starke Verben)* are irregular verbs
 
 
-| Verb      | Eng/Rus                  | Präteritum | Partizip 2      |
-| --------- | ------------------------ | ---------- | --------------- |
-| anrufen   | call, звонить            | rief       | hat angerufen   |
-| bleiben   | stay, remain, оставаться | blieb      | ist geblieben   |
-| bringen   | bring, приносить         | brachte    | hat gebracht    |
-| essen     | eat, есть                | aß         | hat gegessen    |
-| fahren    | drive, ride, ехать       | fuhr       | ist gefahren    |
-| finden    | find, находить           | fand       | hat gefunden    |
-| geben     | give, давать             | gab        | hat gegeben     |
-| gehen     | go, идти                 | ging       | ist gegangen    |
-| haben     | have, иметь              | hatte      | hat gehabt      |
-| kennen    | know, знать              | kannte     | hat gekannt     |
-| kommen    | come, приходить          | kam        | ist gekommen    |
-| lesen     | read, читать             | las        | hat gelesen     |
-| machen    | make, do, делать         | mach       | hat gemacht     |
-| nehmen    | take, брать              | nahm       | hat genommen    |
-| schreiben | write, писать            | schrieb    | hat geschrieben |
-| schlafen  | sleep, спать             | schlief    | hat geschlafen  |
-| sehen     | see, видеть              | sah        | hat gesehen     |
-| sein      | be, быть                 | war        | ist gewesen     |
-| sprechen  | speak, говорить          | sprach     | hat gesprochen  |
-| stehen    | stand, стоять            | stand      | hat gestanden   |
-| treffen   | meet, встречать          | traf       | hat getroffen   |
-| trinken   | drink, пить              | trank      | hat getrunken   |
-| tun       | do, work, делать         | tat        | hat getan       |
-| wissen    | know, знать              | wusste     | hat gewusst     |
+| Verb          | Präteritum  | Partizip 2          | Eng/Rus                      |
+| ------------- | ----------- | ------------------- | ---------------------------- |
+| anrufen       | rief        | hat angerufen       | call, звонить                |
+| **bleiben**   | **blieb**   | **ist geblieben**   | **stay, remain, оставаться** |
+| **bringen**   | **brachte** | **hat gebracht**    | **bring, приносить**         |
+| essen         | aß          | hat gegessen        | eat, есть                    |
+| **fahren**    | **fuhr**    | **ist gefahren**    | **drive, ride, ехать**       |
+| **finden**    | **fand**    | **hat gefunden**    | **find, находить**           |
+| **geben**     | **gab**     | **hat gegeben**     | **give, давать**             |
+| **gehen**     | **ging**    | **ist gegangen**    | **go, идти**                 |
+| **haben**     | **hatte**   | **hat gehabt**      | **have, иметь**              |
+| **kennen**    | **kannte**  | **hat gekannt**     | **know, знать**              |
+| **kommen**    | **kam**     | **ist gekommen**    | **come, приходить**          |
+| **lesen**     | **las**     | **hat gelesen**     | **read, читать**             |
+| machen        | mach        | hat gemacht         | make, do, делать             |
+| **nehmen**    | **nahm**    | **hat genommen**    | **take, брать**              |
+| **schreiben** | **schrieb** | **hat geschrieben** | **write, писать**            |
+| schlafen      | schlief     | hat geschlafen      | sleep, спать                 |
+| **sehen**     | **sah**     | **hat gesehen**     | **see, видеть**              |
+| **sein**      | **war**     | **ist gewesen**     | **be, быть**                 |
+| **sprechen**  | **sprach**  | **hat gesprochen**  | **speak, говорить**          |
+| **stehen**    | **stand**   | **hat gestanden**   | **stand, стоять**            |
+| treffen       | traf        | hat getroffen       | meet, встречать              |
+| **trinken**   | **trank**   | **hat getrunken**   | **drink, пить**              |
+| **tun**       | **tat**     | **hat getan**       | **do, work, делать**         |
+| **wissen**    | **wusste**  | **hat gewusst**     | **know, знать**              |
 
 **Weak verbs** *(schwache Verben)* are regular verbs; they follow a fixed pattern
 
