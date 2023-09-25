@@ -15,3 +15,25 @@ Ich habe ein Buch gelesen
 Ich bin im Wald spazieren gegangen
 ich habe Hausaufgaben gemacht
 ich bin zum Laden gegangen
+
+**9 - In einer fremden Stadt**
+
+Man versteht ein Wort nicht - You don't understand a word
+Was muss man tun? - What do you have to do?
+Erlaubt oder verboten? - Allowed or forbidden?
+Guck mal - Have a look
+Hier dürfen wir fahren - We're allowed to drive here 
+Ergänzen Sie - Complete
+Shau mal, die Katzen. Die essen ja Eis! - Look, the cats. They eat ice cream!
+Nich müssen - Dont have to
+Huch! Wie spät ist es. Ist es schon Zeit zum Aufstehen - Yikes! What time is it. Is it time to get up yet?
+eine Sehenswürdigkeit - a sight - достопримечательность
+	besichtigen - visit a sight - посетить 
+	besuchen - visit
+	unternehmen - undertake, do
+ein Wort - a word
+erklären - explain a word
+helfen  - help
+verstehen - understand
+Man darf nicht eifach in den Dom gehen, man muss Eintritt bezahlen. - You can't just go into the cathedral, you have to pay an entrance fee.
+Man muss unbedingt einen Ausflug in den Weinerwald. - You definitely have to take a trip to the Weinerwald.

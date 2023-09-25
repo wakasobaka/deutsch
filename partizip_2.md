@@ -22,7 +22,9 @@ https://deutsch.lingolia.com/en/grammar/tenses/irregular-verbs
 | haben                                                        | ich hatte<br />du hattest<br />er hatte<br />wir hatten<br />ihr hattet<br />sie hatten | gehabt              | have, иметь              |
 | kennen                                                       | kannte                                                       | gekannt             | know, знать              |
 | kommen                                                       | kam                                                          | *gekommen           | come, приходить          |
+| können                                                       | konnte                                                       | gekonnt             | to be able (can)         |
 | lesen                                                        | las                                                          | gelesen             | read, читать             |
+| müssen                                                       | musste                                                       | gemusst             | to have to (must)        |
 | nehmen                                                       | nahm                                                         | genommen            | take, брать              |
 | rufen                                                        | rief                                                         | gerufen             | call, звонить            |
 | schreiben                                                    | schrieb                                                      | geschrieben         | write, писать            |
@@ -46,11 +48,16 @@ https://deutsch.lingolia.com/en/grammar/tenses/irregular-verbs
 
 **Mixed verbs** *(gemischte Verben)* are also irregular; their conjugation is a mix of strong and weak verbs
 
-| Verb     | Eng  | Präteritum | Partizip 2     |
-| -------- | ---- | ---------- | -------------- |
-| arbeiten |      |            | hat gearbeitet |
-| hören    |      |            | hat gehört     |
-| tanzen   |      |            | hat getanzt    |
-|          |      |            |                |
+| Verb        | Eng         | Präteritum | Partizip 2      |
+| ----------- | ----------- | ---------- | --------------- |
+| arbeiten    |             |            | hat gearbeitet  |
+| aufräumen   | clean up    |            | hat aufgeräumt  |
+| hören       |             |            | hat gehört      |
+| kosten      | cost        |            | hat gekostet    |
+| tanzen      |             |            | hat getanzt     |
+| warten      | wait        |            | hat gewartet    |
+| wiederholen | repeat      |            | hat wiedegeholt |
+| wünschen    | wish, will  |            | hat gewünscht   |
+| zumachen    | shut, close |            | hat zugemacht   |
 
 verdienen earn
