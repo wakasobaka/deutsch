@@ -48,16 +48,17 @@ https://deutsch.lingolia.com/en/grammar/tenses/irregular-verbs
 
 **Mixed verbs** *(gemischte Verben)* are also irregular; their conjugation is a mix of strong and weak verbs
 
-| Verb        | Eng         | Präteritum | Partizip 2      |
-| ----------- | ----------- | ---------- | --------------- |
-| arbeiten    |             |            | hat gearbeitet  |
-| aufräumen   | clean up    |            | hat aufgeräumt  |
-| hören       |             |            | hat gehört      |
-| kosten      | cost        |            | hat gekostet    |
-| tanzen      |             |            | hat getanzt     |
-| warten      | wait        |            | hat gewartet    |
-| wiederholen | repeat      |            | hat wiedegeholt |
-| wünschen    | wish, will  |            | hat gewünscht   |
-| zumachen    | shut, close |            | hat zugemacht   |
+| Verb        | Eng           | Präteritum | Partizip 2      |
+| ----------- | ------------- | ---------- | --------------- |
+| arbeiten    |               |            | hat gearbeitet  |
+| aufräumen   | clean up      |            | hat aufgeräumt  |
+| hören       |               |            | hat gehört      |
+| kosten      | cost          |            | hat gekostet    |
+| tanzen      |               |            | hat getanzt     |
+| warten      | wait          |            | hat gewartet    |
+| wiederholen | repeat        |            | hat wiedegeholt |
+| wünschen    | wish, will    |            | hat gewünscht   |
+| zeigen      | present, show |            | hat gezeigt     |
+| zumachen    | shut, close   |            | hat zugemacht   |
 
 verdienen earn

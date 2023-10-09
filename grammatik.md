@@ -13,3 +13,5 @@ Das mochte ich gern mal machen - I would like to do that
 Das finde ich nicht so wichtig - I don't think that's important
 
 Du lernst schon lange Spanisch - You've been learning Spanish for a long time
+
+https://www.verbformen.de/konjugation/

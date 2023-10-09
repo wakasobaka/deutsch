@@ -37,3 +37,7 @@ helfen  - help
 verstehen - understand
 Man darf nicht eifach in den Dom gehen, man muss Eintritt bezahlen. - You can't just go into the cathedral, you have to pay an entrance fee.
 Man muss unbedingt einen Ausflug in den Weinerwald. - You definitely have to take a trip to the Weinerwald.
+Wir sind gleich da - We're almost there
+Gebt mir mal die Wasserflasche - Give me the bottle of water
+Was hast du nicht verstanden? Lies doch mal vor. - What didn't you understand? Just read it.
+Gib das Formular da drüben ab - Submit the form over there
