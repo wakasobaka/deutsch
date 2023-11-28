@@ -22,6 +22,10 @@ Ich bin im Wald spazieren gegangen
 ich habe Hausaufgaben gemacht
 ich bin zum Laden gegangen
 
+Am Wochenende haben wir einen Film geschaut. Wir haben ein Brettspiel gespielt
+
+Am Wochenende haben wir einen Film geschaut. Wir haben ein Brettspiel gespielt. Wir gingen auch im Park spazieren. Wir sind auch in den Laden gegangen.
+
 **9 - In einer fremden Stadt**
 
 Man versteht ein Wort nicht - You don't understand a word

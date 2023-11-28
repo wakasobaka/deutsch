@@ -1,4 +1,12 @@
+Irregular verbs
+
 https://deutsch.lingolia.com/en/grammar/tenses/irregular-verbs
+
+- **Weak verbs** *(schwache Verben)* are regular verbs; they follow a fixed pattern
+- **Strong verbs** *(starke Verben)* are irregular verbs
+- **Mixed verbs** *(gemischte Verben)* are also irregular; their conjugation is a mix of strong and weak verbs
+
+https://www.verbformen.de/konjugation/
 
 **Strong verbs** *(starke Verben)* are irregular verbs
 
